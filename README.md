@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </h1>
 
 ### A little about me
-<p>
+
 - 📚 I'm a Software Engineering student at Concordia University<br>
 - ⏳ I'm extremly passionate about game development and love engaging with it whenever I have the chance<br>
 - :godmode: Acting VP for the <a href="https://discord.gg/fRzAuRhqrD" target="_blank" rel="noreferrer"title="CGD"> Concordia Game Development</a> club<br>
