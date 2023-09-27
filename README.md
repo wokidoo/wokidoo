@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="60" height="auto" alt="Git" /></a>
   <br><br>
   <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer" title="SDL2"><img src="https://www.libsdl.org/media/SDL_logo.png" width="70" height="auto" alt="SDL2" /></a>
-  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer" title="SDL2"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/120px-Opengl-logo.svg.png?20230524144527" width="95" height="auto" alt="SDL2" /></a>
+  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer" title="openGL"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/120px-Opengl-logo.svg.png?20230524144527" width="95" height="auto" alt="SDL2" /></a>
 </p>
 
 ---
