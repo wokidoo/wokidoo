@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<h1 align="center">
-  Welcome, my name is Charles
+<h1 align="center" title="Thanks for coming!">
+  Welcome, my name is Charles Partous
 </h1>
 
 </body>
