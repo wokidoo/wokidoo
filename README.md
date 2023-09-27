@@ -1,11 +1,10 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<body>
+<body style="background-color:powderblue;">
 <h1 align="center" title="Thanks for coming!">
   Welcome, my name is Charles Partous
 </h1>
-<hr>
 <p>Some words</p>
 
 </body>
