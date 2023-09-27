@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <html lang="en">
 <body>
 <h1 align="center">
-  Welcome, i'm Charles
+  Welcome, my name is Charles
 </h1>
 
 </body>
