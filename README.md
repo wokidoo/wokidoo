@@ -1,4 +1,5 @@
 <!--
+https://discord.gg/fRzAuRhqrD
 **wokidoo/wokidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -13,13 +14,19 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 
 <h1 align="center" title="Thanks for coming!">
-  Welcome, my name is Charles Partous 
+  Welcome, my name is Charles Partous
 </h1>
 
 ### A little about me
+<p>
+- 📚 I'm a Software Engineering student at Concordia University<br>
+- ⏳ I'm extremly passionate about game development and love engaging with it whenever I have the chance<br>
+- :godmode: I'm the acting VP for the <a href="https://discord.gg/fRzAuRhqrD" target="_blank" rel="noreferrer"title="CGD"> Concordia Game Development</a> club<br>
+- 🎮 Currently working on developing my own 3D game engine using SDL2 & OpenGL<br>
+
 ---
-### Skills, APIs, Technologies
-<p class="ex1" align="left">
+  ### Skills, APIs, Technologies
+<p align="left">
   <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" title="C++"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="60" height="auto" alt="C++"></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" title="C#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="60" height="auto" alt="C#" /></a>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" title="Java"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="60" height="auto" alt="Java" /></a>
