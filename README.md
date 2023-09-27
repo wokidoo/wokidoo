@@ -5,7 +5,9 @@
 <h1 align="center" title="Thanks for coming!" style="color:powderblue;">
   Welcome, my name is Charles Partous
 </h1>
-<p>Some words</p>
+<p style="color:powderblue;">
+  Some words
+</p>
 
 </body>
 </html>
