@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📚 I'm a Software Engineering student at Concordia University<br>
 - ⏳ I'm extremly passionate about game development and love engaging with it whenever I have the chance<br>
 - :godmode: Acting VP for the __Concordia Game Development__ club<br>
-- 🎮 Currently working on developing my own 3D game engine using SDL2 & OpenGL<br>
+- 🎮 Currently developing my own 3D game engine using SDL2, OpenGL and programmed in C++<br>
 
 ---
   ### Skills, APIs, Technologies
