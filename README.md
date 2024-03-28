@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="50" height="auto" alt="Python" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"title="HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="60" height="auto" alt="HTML5" /></a>
   <br><br>
-  <a href="https://godotengine.org/" target="_blank" rel="noreferrer" title="Godot"><img src="https://godotengine.org/assets/press/icon_color.png" width="60" height="auto" alt="Godot" /></a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer" title="Godot"><img src="https://godotengine.org/assets/press/icon_color.svg" width="60" height="auto" alt="Godot" /></a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer" title="Unity"><img src="https://cdn.sanity.io/images/fuvbjjlp/production/5f7464b6dd8019b8c97924bc719cb7f064705a65-91x100.png" width="60" height="auto" alt="Unity" /></a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer" title="Blender"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="50" height="auto" alt="Blender" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="60" height="auto" alt="Git" /></a>
