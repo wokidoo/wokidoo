@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 📚 I'm a Software Engineering student at Concordia University<br>
 - ⏳ I'm extremly passionate about game development<br>
-- :godmode: Acting President for the __Concordia Game Development__ club<br>
+- :godmode: Acting President for the __Concordia Game Development__ organization<br>
 - 🎮 Currently working on several game development projects using Godot<br>
 
 ---
