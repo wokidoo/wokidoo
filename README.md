@@ -48,4 +48,7 @@ Here are some ideas to get you started:
   <a href="https://wokidoo.itch.io/" target="_blank" rel="noreferrer" title="Itch.io">
     <img src="https://static.itch.io/images/app-icon.svg" width="50" height="auto" alt="Itch.io">
   </a>
+  <a href="https://wokidoo.github.io/" target="_blank" rel="noreferrer" title="Portofolio Website">
+    
+  </a>
 </p>
