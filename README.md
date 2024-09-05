@@ -49,6 +49,6 @@ Here are some ideas to get you started:
     <img src="https://static.itch.io/images/app-icon.svg" width="50" height="auto" alt="Itch.io">
   </a>
   <a href="https://wokidoo.github.io/" target="_blank" rel="noreferrer" title="Portofolio Website">
-    
+    <img src="file-earmark-person-fill.svg" width="50" height="auto" alt="Portofolio Website">
   </a>
 </p>
