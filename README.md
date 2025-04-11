@@ -10,7 +10,7 @@ I'm a Software Engineering student and game developer!
 
 📚 I study at Concordia University  
 
-⏳ In my freetime I like to work on game development projects  
+⏳ In my freetime I like to work on learn about new tech, frameworks, and languages 
 
 :godmode: I've helped build the _Concordia Game Development_ organization at my university 
 
