@@ -12,7 +12,7 @@ I'm a Software Engineering student and game developer!
 
 ⏳ In my freetime I like to work on learn about new tech, frameworks, and languages 
 
-:godmode: I've helped build the _Concordia Game Development_ organization at my university 
+:godmode: I help manage the _Concordia Game Development_ organization at my university 
 
 🎮 I'm currently working on several projects with the Godot game engine
 
