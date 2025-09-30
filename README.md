@@ -29,6 +29,3 @@ I'm a Software Engineering student and game developer!
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white&logoWidth=32)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&logoWidth=32)
 
-## Low‑level / Graphics  
-![SDL2](https://img.shields.io/badge/SDL2-FFB13B?style=flat&logo=sdl&logoColor=white&logoWidth=32)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white&logoWidth=32)
