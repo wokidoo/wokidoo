@@ -14,7 +14,7 @@ I'm a Software Engineering student and game developer!
 
 :godmode: I help manage the _Concordia Game Development_ organization at my university 
 
-🎮 I'm currently working on several projects with the Godot game engine
+🎮 I'm currently working on several projects with the Godot game engine and Unity
 
 ## Languages  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white&logoWidth=32)
